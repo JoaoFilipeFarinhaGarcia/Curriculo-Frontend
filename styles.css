@@ -1,0 +1,51 @@
+/* styles.css */
+
+/* Cor das letras não selecionadas */
+.nav-link {
+  color: rgb(8, 142, 252);
+}
+
+/* Cor das letras quando são ativas ou selecionadas */
+.nav-link.active {
+  color: white;
+}
+
+/* Quando o link é hover (quando o cursor está em cima) */
+.nav-link:hover {
+  color: white;
+}
+
+.nav-background {
+  background-color: rgb(51, 51, 51);
+}
+
+.titulocontainer {
+  background-color: rgb(51, 51, 51);
+  color: rgb(255, 255, 255); 
+  text-align: center;
+  font-size:larger;
+}
+
+.skills-espaco{
+  text-shadow: black;
+}
+
+.titulo {
+  color: rgb(0, 0, 0); 
+  text-align: center;
+  font-size:larger;
+}
+
+.teste{
+background-color: rgb(48, 48, 48);
+background-size:0%;
+
+}
+
+
+
+.textocard {
+  color: black;
+  text-align:center;
+  font-size: medium;
+}
